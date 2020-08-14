@@ -10,7 +10,7 @@ tlds = ['.icu>', '.br>', '.bid>', '.date>', '.loan>', '.trade>', '.ga>', '.cf>' 
 tldsj = ['.icu>', '.br>', '.bid>', '.date>', '.loan>', '.trade>', '.ga>', '.cf>', '.ml>', '.ar>', '.gq>','.tk>', '.info>','.review>', '.online>','.website>','.space>','.site>','.top>','.win>','.life>','.xyz>','patriotbundle.com','conservazon.com>']
 tldsj2 = ['.ltd>', 'americanas.com','.rest','.us>', '.pw>', '.press>', '.club>', '.live>', '.pro>', '.download>', '.xyz>' ,'.today>', '.casa>', '.world>','.live>','.id>','.site>']
 goods = ['coursera', 'creditkarma', 'holidayextras', 'carbmanager', 'ntask', 'fool.co.uk', 'apple.com', 'evite.com', 'moneysavingexpert', 'edx.org', 'mailtoself', 'sourceforge', 'channel4', 'stubhub', 'bankofamerica', 'deloitte', 'trainline', 'cvsspecialty', 'halifax', 'priceline', 'heliohost', 'ticketmaster', 'lastpass', 'vintage-inns', 'mandsbank', 'spiritairlines', 'taxdisc', 'dds.ga', 'delta', 'upwork', 'telegraph', 'tvguide.co.uk', 'heathrow']
-newss = ['nextdoor.co.uk', 'usps.gov', '@medium.com', 'dowjones.com', 'todoist.com', 'linkedin.com', 'tvguide.co.uk', 'realpython', 'cmwf.org', 'trello.com', 'thetimes.co.uk', 'nytimes.com', 'wsj.com', 'getpocket.com', 'pinterest.com', 'thepointsguy.co.uk', 'freecycle.org']
+newss = ['nextdoor.com','nextdoor.co.uk', 'usps.gov', '@medium.com', 'dowjones.com', 'todoist.com', 'linkedin.com', 'tvguide.co.uk', 'realpython', 'cmwf.org', 'trello.com', 'thetimes.co.uk', 'nytimes.com', 'wsj.com', 'getpocket.com', 'pinterest.com', 'thepointsguy.co.uk', 'freecycle.org']
 deleted=[]
 now = datetime.datetime.now()
 nowaware=now.replace(tzinfo=datetime.timezone.utc)
